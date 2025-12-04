@@ -1,0 +1,7 @@
+{
+  "name": "CommunityConnect",
+  "description": "A comprehensive gated community management platform with AI-powered assistance, visitor management, and payments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
